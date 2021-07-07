@@ -1,5 +1,6 @@
 # **Hi there👋**
 ## Welcome to my Git Profile. 
+#### Find My **Resume Here** 👉 [**Download Here**](https://drive.google.com/file/d/1bBE5NjVbcCBAhwjbUD7ekt68xpKT_0Gn/view?usp=sharing)
 ## Here are my quick facts about me:
 > * 👨‍🔬 Passionate about Data and Science with Data
 > * 👨‍🎓 Will Graduate on 2022
