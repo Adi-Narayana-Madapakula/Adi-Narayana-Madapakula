@@ -6,8 +6,8 @@
 
 > * 👨‍🔬 Passionate about Data and Science with Data
 > * 👨‍🎓 Will Graduate on 2022
-> * 📖 Completed Internship at [IIIT Hyderabad LTRC Labs](https://ltrc.iiit.ac.in/).
-> * 📊 Currently working on POS Tagging in the Domain of Natural Language Processing(NLP).
+> * 📖 Doing Long-Term Internship at [IIIT Hyderabad LTRC Labs](https://ltrc.iiit.ac.in/).
+> * 📊 Currently working on Tokenisation and POS & NER Tagging in the Domain of Natural Language Processing(NLP).
 > * 🤔 Looking for Internship in Data Science Field to grow up.
 > * How to Reach me 👉 [Here](http://adi160568.unaux.com)
 > * Having Knowledge on Web Development and Different Branches of Multi-Disciplinary field Data Science
