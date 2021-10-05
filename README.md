@@ -2,6 +2,8 @@
 ## Welcome to my Git Profile. 
 #### Find My **Resume Here** 👉 [**Download Here**](https://drive.google.com/file/d/1bBE5NjVbcCBAhwjbUD7ekt68xpKT_0Gn/view?usp=sharing)
 ## Here are some quick facts about me:
+![Adi Narayana Madapakula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-Narayana-Madapakula&count_private=true&show_icons=true&theme=radical)
+
 > * 👨‍🔬 Passionate about Data and Science with Data
 > * 👨‍🎓 Will Graduate on 2022
 > * 📖 Completed Internship at [IIIT Hyderabad LTRC Labs](https://ltrc.iiit.ac.in/).
@@ -19,3 +21,5 @@
 >     - We works on POS Tagging Telugu(A Indian language) for creating and Data Annotation for Collected Corpus.
 >   - Various Projects during Internship ( **The Sparks Foundation** )
 >     - [The Sparks Foundation Intern](https://github.com/Adi-Narayana-Madapakula/The-Sparks-Foundation-Intern)
+
+
