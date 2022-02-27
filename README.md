@@ -16,6 +16,14 @@
 >     - [Data Science Projects](https://github.com/Adi-Narayana-Madapakula/Data-Science-Projects)
 >   - [Human Gender Tracking](https://github.com/Adi-Narayana-Madapakula/Human-Gender-Tracking-Application)
 >     - Deep Learning project which detects the Face of different genders and returns the count of Males and Females
+>   - [YouTube Vid-Kit](https://github.com/Adi-Narayana-Madapakula/YouTube-Vid-Kit)
+>     - An Integrated Application provides the entire video information analysis and report from the user given youtube
+video link or video ID
+>     - Milestones of the Internal Mechanism of the project are Video details Extraction, Video transcription Extraction,
+Video Summary Creation, Scene Detection, Transcription Analysis along with POS & NER for Top Keywords in the
+video.
+>     - It is an Integrated application which is built with Django framework and Deep Learning and Natural Language
+Processing with python.
 >   - POS Tagging for Telugu (Indian language)
 >     - NLP Fundamental project which is very helpful in most of the NLP Applications.
 >     - We works on POS Tagging Telugu(A Indian language) for creating and Data Annotation for Collected Corpus.
