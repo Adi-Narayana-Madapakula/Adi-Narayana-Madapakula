@@ -4,30 +4,26 @@
 ## Here are some quick facts about me:
 ![Adi Narayana Madapakula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-Narayana-Madapakula&count_private=true&show_icons=true&theme=radical)
 
-> * 👨‍🔬 Passionate about Data Science and NLP
-> * 👨‍🎓 Will Graduate on 2022
-> * 📖 Doing Long-Term Internship at [IIIT Hyderabad LTRC Labs](https://ltrc.iiit.ac.in/).
-> * 📊 Currently working on Tokenisation and POS & NER Tagging in the Domain of Natural Language Processing(NLP).
-> * 🤔 Looking for Internship in Data Science Field to grow up.
+> * 👨‍🔬 Passionate about Data Science, NLP, and Generative AI
+> * 👨‍🎓 Graduated in 2022
+> * 📊 Currently working as an Analyst at [MathCo](https://www.themathcompany.com/), Bangalore, Karnataka
+> * 📖 Former NLP Research Intern at [IIIT Hyderabad LTRC Labs](https://ltrc.iiit.ac.in/)
+> * 🤔 Open to new opportunities in Data Science and related fields
 > * How to Reach me 👉 [Here](http://adi160568.unaux.com)
-> * Having Knowledge on Web Development and Different Branches of Multi-Disciplinary field Data Science
-> * Projects Worked On :
->   - Different Data Science Projects
->     - [Data Science Projects](https://github.com/Adi-Narayana-Madapakula/Data-Science-Projects)
+> * Proficient in Python, ML, Statistics, and ETL pipelines for actionable insights
+> * Projects Worked On:
+>   - [Data Science Projects](https://github.com/Adi-Narayana-Madapakula/Data-Science-Projects)
 >   - [Human Gender Tracking](https://github.com/Adi-Narayana-Madapakula/Human-Gender-Tracking-Application)
->     - Deep Learning project which detects the Face of different genders and returns the count of Males and Females
+>     - Deep Learning project that detects the face of different genders and returns the count of males and females
 >   - [YouTube Vid-Kit](https://github.com/Adi-Narayana-Madapakula/YouTube-Vid-Kit)
->     - An Integrated Application provides the entire video information analysis and report from the user given youtube
-video link or video ID
->     - Milestones of the Internal Mechanism of the project are Video details Extraction, Video transcription Extraction,
-Video Summary Creation, Scene Detection, Transcription Analysis along with POS & NER for Top Keywords in the
-video.
->     - It is an Integrated application which is built with Django framework and Deep Learning and Natural Language
-Processing with python.
->   - POS Tagging for Telugu (Indian language)
->     - NLP Fundamental project which is very helpful in most of the NLP Applications.
->     - We works on POS Tagging Telugu(A Indian language) for creating and Data Annotation for Collected Corpus.
->   - Various Projects during Internship ( **The Sparks Foundation** )
+>     - An integrated application providing comprehensive video information analysis and reports from user-provided YouTube links or video IDs
+>     - Includes video details extraction, transcription extraction, video summary creation, scene detection, and transcription analysis with POS & NER for top keywords in the video
+>     - Built with Django framework, Deep Learning, and Natural Language Processing in Python
+>   - [POS Tagging for Telugu](https://github.com/Adi-Narayana-Madapakula/Telugu-POS-Tagging)
+>     - NLP project for POS tagging in Telugu, including data annotation for the collected corpus
+>   - [Customer Segmentation](https://github.com/Adi-Narayana-Madapakula/Customer-Segmentation)
+>     - Implemented customer segmentation for a video-on-demand company, enhancing marketing strategies
+>   - [Market Mix Modelling](https://github.com/Adi-Narayana-Madapakula/Market-Mix-Modelling)
+>     - Implemented market mix modeling for a retail company, optimizing marketing strategy effectiveness
+>   - Various Projects during Internship at **The Sparks Foundation**
 >     - [The Sparks Foundation Intern](https://github.com/Adi-Narayana-Madapakula/The-Sparks-Foundation-Intern)
-
-
