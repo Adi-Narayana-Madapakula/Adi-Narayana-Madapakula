@@ -1,15 +1,15 @@
-## **Welcome to my GitHub profile! 👋**
+## **Welcome to My GitHub Profile! 👋**
 
-I'm Adi Narayana Madapakula, a passionate data scientist with a keen interest in leveraging data-driven solutions to drive innovation and make a positive impact.
+I'm **Adi Narayana Madapakula**, a passionate **Data Scientist** with a keen interest in leveraging data-driven solutions to drive innovation and make a positive impact.
 
-I thrive on curiosity and am driven by a continuous quest for knowledge. With a Bachelor of Technology in Computer Science Engineering from IIIT Srikakulam, I have developed a strong foundation in data science, machine learning, and statistical analysis.
+I thrive on curiosity and am driven by a continuous quest for knowledge. With a **Bachelor of Technology** in **Computer Science Engineering** from **IIIT Srikakulam**, I have developed a strong foundation in data science, machine learning, and statistical analysis.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adi-narayana-madapakula) to explore exciting opportunities in the dynamic world of data science and AI! Let's collaborate on innovative projects and embark on a journey of discovery together. 🌟
 
 ## 💼 **Experience**
 
 ### **Data Scientist | MathCo**  
-Bangalore, Karnataka | Jun 2022 – Present  
+**Bangalore, Karnataka** | **Jun 2022 – Present**  
 
 At MathCo, I am focused on crafting innovative solutions to enhance business operations and drive profitability. My role involves:
 - Developed a **linear programming optimizer** that increased CPG firm profits by **9%** through improved pricing strategies.
@@ -21,7 +21,7 @@ At MathCo, I am focused on crafting innovative solutions to enhance business ope
 These initiatives reflect my commitment to leveraging data science to solve complex business challenges and drive operational excellence.
 
 ### **NLP Research Intern | LTRC Labs, IIIT Hyderabad**  
-Hyderabad, Telangana | Apr 2021 – May 2022  
+**Hyderabad, Telangana** | **Apr 2021 – May 2022**  
 
 During my internship at LTRC Labs, I focused on researching NLP methods for the Telugu language. I implemented various models to improve tagging performance, contributing to advancements in natural language processing.
 
@@ -36,7 +36,6 @@ I possess expertise in a wide range of tools and technologies essential for data
 - **Web/Dashboard:** HTML, CSS, Bootstrap, JavaScript, MySQL, Flask, Django, Streamlit, Power BI  
 - **Database:** MySQL, PostgreSQL, Snowflake, MongoDB  
 - **Azure Stack:** ML Studio, Azure Data Lake, Azure Databricks, Azure Functions, Azure Key Vault, Azure DevOps, Git
-
 
 ## 💻 **Projects** 
 
