@@ -25,6 +25,16 @@ My work spans **classical ML, time-series forecasting, optimization, NLP, LLMs, 
 
 ---
 
+## 🚀 Selected Work & Focus Areas
+
+- **Pricing & Promotion Optimization** using ML and mathematical optimization  
+- **Demand Forecasting Platforms** with automated model benchmarking  
+- **LLM-based Analytics Copilots** for enterprise decision-making  
+- **RAG Systems** for grounded, explainable AI over enterprise data  
+- **Scalable ML Platforms** with production-grade MLOps
+  
+---
+
 ### **NLP Research Intern | LTRC Labs, IIIT Hyderabad**  
 *Hyderabad, India | Apr 2021 – May 2022*
 
@@ -64,21 +74,5 @@ My work spans **classical ML, time-series forecasting, optimization, NLP, LLMs, 
 ### **Databases**
 - SQL (MySQL, PostgreSQL), Snowflake, MongoDB  
 - Vector Databases (FAISS / equivalents)
-
----
-
-## 🚀 Selected Work & Focus Areas
-
-- **Pricing & Promotion Optimization** using ML and mathematical optimization  
-- **Demand Forecasting Platforms** with automated model benchmarking  
-- **LLM-based Analytics Copilots** for enterprise decision-making  
-- **RAG Systems** for grounded, explainable AI over enterprise data  
-- **Scalable ML Platforms** with production-grade MLOps
-
----
-
-## 📊 GitHub Stats
-
-![Adi Narayana Madapakula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-Narayana-Madapakula&count_private=true&show_icons=true&theme=radical)
 
 ---
