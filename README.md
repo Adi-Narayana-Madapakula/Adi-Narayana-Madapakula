@@ -1,53 +1,84 @@
-## **Welcome to My GitHub Profile! 👋**
+## 👋 Hi, I’m Adi Narayana Madapakula
 
-I'm **Adi Narayana Madapakula**, a passionate **Data Scientist** with a keen interest in leveraging data-driven solutions to drive innovation and make a positive impact.
+**Senior AI/ML Engineer | GenAI & ML Systems | Databricks Certified GenAI Professional**
 
-I thrive on curiosity and am driven by a continuous quest for knowledge. With a **Bachelor of Technology** in **Computer Science Engineering** from **IIIT Srikakulam**, I have developed a strong foundation in data science, machine learning, and statistical analysis.
+I’m a Senior AI/ML Engineer with ~4 years of experience building, deploying, and operating **production-grade Machine Learning and Generative AI systems**. I specialize in **end-to-end ML system ownership** — from problem formulation and data pipelines to model deployment, monitoring, and scale.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adi-narayana-madapakula) to explore exciting opportunities in the dynamic world of data science and AI! Let's collaborate on innovative projects and embark on a journey of discovery together. 🌟
+My work spans **classical ML, time-series forecasting, optimization, NLP, LLMs, RAG pipelines, and MLOps**, with a strong foundation in **software engineering and cloud-native architectures**. I focus on building **reliable, scalable, and business-impacting AI systems**, not just models.
 
-## 💼 **Experience**
+📍 Bengaluru, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/adi-narayana-madapakula)
 
-### **Data Scientist | MathCo**  
-**Bangalore, Karnataka** | **Jun 2022 – Present**  
+---
 
-At MathCo, I am focused on crafting innovative solutions to enhance business operations and drive profitability. My role involves:
-- Developed a **linear programming optimizer** that increased CPG firm profits by **9%** through improved pricing strategies.
-- Automated the creation of **over 250 models** for **price elasticity analysis**, significantly enhancing decision-making for a leading CPG firm.
-- Created an advanced method to **detect cannibalization** in a retailer’s product lineup using **price elasticity** and **distribution data**.
-- Developed a **market mix model** to analyze sales performance across various marketing channels, refining the retail company’s **marketing strategy**.
-- Conducted **customer segmentation** for a video-on-demand service to better align branding and marketing efforts with specific customer groups.
+## 💼 Experience
 
-These initiatives reflect my commitment to leveraging data science to solve complex business challenges and drive operational excellence.
+### **Senior AI/ML Engineer | TheMathCompany (MathCo)**  
+*Bengaluru, India | Jun 2022 – Present*
+
+- Architected and owned **end-to-end ML and GenAI systems** across forecasting, optimization, causal inference, and decision intelligence — from data ingestion to production monitoring.
+- Built and deployed **LLM-powered applications** including analytical copilots, conversational interfaces, and decision-support tools over large enterprise datasets.
+- Implemented **Retrieval-Augmented Generation (RAG)** pipelines using embeddings, vector databases, metadata filtering, and grounded reasoning, integrated with agent-based workflows.
+- Designed **scalable MLOps frameworks** enabling CI/CD for ML, model versioning, drift detection, monitoring, and rollback across multiple client platforms.
+- Developed **enterprise-scale forecasting and optimization models** for pricing, promotions, demand planning, and scenario analysis.
+- Delivered measurable business impact, including **~9% profitability improvement** for a leading CPG client through AI-driven optimization systems.
+
+---
 
 ### **NLP Research Intern | LTRC Labs, IIIT Hyderabad**  
-**Hyderabad, Telangana** | **Apr 2021 – May 2022**  
+*Hyderabad, India | Apr 2021 – May 2022*
 
-During my internship at LTRC Labs, I focused on researching NLP methods for the Telugu language. I implemented various models to improve tagging performance, contributing to advancements in natural language processing.
+- Conducted research on **Telugu NLP systems**, focusing on tokenization, POS tagging, and named entity recognition.
+- Implemented and evaluated **HMM, CRF, LSTM, and Bi-LSTM models** for sequence labeling tasks.
 
-## 🚀 **Technical Skills**
+---
 
-I possess expertise in a wide range of tools and technologies essential for data science and AI, including Python, ML, Dashboarding, PySpark, and Azure. From data wrangling and exploratory data analysis to building and deploying machine learning models, I am adept at leveraging the latest advancements in technology to drive actionable insights and innovation.
+## 🧠 Technical Skills
 
-- **Programming Languages:** Python, R, C, Bash (Scripting)  
-- **Libraries/Frameworks:** NumPy, Pandas, scikit-learn, NLTK, Spacy, Gensim, Plotly, Statsmodels, OpenCV  
-- **Data Science:** EDA, Regression, Clustering, Classification, Forecasting, NLP, Gen AI, LLM, Model Deployment  
-- **Data Engineering:** Data Modelling, ERD Design, Data Mining, Data Wrangling, PySpark, Databricks  
-- **Web/Dashboard:** HTML, CSS, Bootstrap, JavaScript, MySQL, Flask, Django, Streamlit, Power BI  
-- **Database:** MySQL, PostgreSQL, Snowflake, MongoDB  
-- **Azure Stack:** ML Studio, Azure Data Lake, Azure Databricks, Azure Functions, Azure Key Vault, Azure DevOps, Git
+### **Software & ML Engineering**
+- Python, Data Structures & Algorithms, APIs, Debugging, Performance Optimization
 
-## 💻 **Projects** 
+### **Machine Learning & AI**
+- Regression, Classification, Clustering, Forecasting  
+- Optimization, Causal Inference, Model Evaluation, Explainability  
+- NLP, Deep Learning, Time-Series ML
 
-I take pride in my diverse portfolio of projects, including:
+### **Generative AI**
+- Large Language Models (LLMs), Prompt Engineering  
+- Retrieval-Augmented Generation (RAG), Embeddings  
+- LangChain, OpenAI APIs, Agentic Workflows
 
-- Developing a **linear programming optimizer** that boosted CPG firm profits by **9%**.
-- Automating the creation of **over 250 models** for **price elasticity analysis**.
-- Creating a method to **detect cannibalization** in product lineups using **price elasticity** and **distribution data**.
-- Developing a **market mix model** for analyzing sales performance across various marketing channels.
-- Conducting **customer segmentation** for video-on-demand services to better align branding and marketing strategies.
+### **ML Systems & MLOps**
+- End-to-End ML Lifecycle  
+- CI/CD for ML, Model Serving, Monitoring, Drift Detection  
+- Automated Retraining, Experiment Tracking
 
-These initiatives showcase my commitment to leveraging data science to solve complex business challenges and drive operational excellence.
+### **Data Engineering & Distributed Systems**
+- PySpark, Databricks, Distributed Computing  
+- ETL Pipelines, Feature Engineering, Data Validation
 
-### 👉 Here are some quick facts about me 
+### **Cloud & Infrastructure**
+- Azure ML, Azure Data Lake, Databricks  
+- Docker, FastAPI, Cloud-Native ML Architectures
+
+### **Databases**
+- SQL (MySQL, PostgreSQL), Snowflake, MongoDB  
+- Vector Databases (FAISS / equivalents)
+
+---
+
+## 🚀 Selected Work & Focus Areas
+
+- **Pricing & Promotion Optimization** using ML and mathematical optimization  
+- **Demand Forecasting Platforms** with automated model benchmarking  
+- **LLM-based Analytics Copilots** for enterprise decision-making  
+- **RAG Systems** for grounded, explainable AI over enterprise data  
+- **Scalable ML Platforms** with production-grade MLOps
+
+---
+
+## 📊 GitHub Stats
+
 ![Adi Narayana Madapakula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-Narayana-Madapakula&count_private=true&show_icons=true&theme=radical)
+
+---
